@@ -12,10 +12,6 @@ This directory contains HTML files and assets for the Airbnb clone web applicati
 - [`6-index.html`](./6-index.html)
 - [`7-index.html`](./7-index.html)
 - [`8-index.html`](./8-index.html)
-- [`100-index.html`](./100-index.html)
-- [`101-index.html`](./101-index.html)
-- [`102-index.html`](./102-index.html)
-- [`103-index.html`](./103-index.html)
 
 ## Assets
 - [`images`](./images)
