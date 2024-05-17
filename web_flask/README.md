@@ -597,7 +597,7 @@ Write a script that starts a Flask web application:
     * `H1` tag: “States”
     * `UL` tag: with the list of all `State` objects present in `DBStorage` **sorted by** **`name`** (A->Z) [tip](https://jinja.palletsprojects.com/en/2.9.x/templates/)
        * `LI` tag: description of one `State`: `<state.id>: <B><state.name></B>`
-Import this [7-dump](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/290/7-states_list.sql) to have some data
+* Import this [7-dump](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/290/7-states_list.sql) to have some data
 * You must use the option `strict_slashes=False` in your route definition
 
 **IMPORTANT**
@@ -1075,4 +1075,4 @@ In the browser:
 ![Image 4](https://i.postimg.cc/qMWjkqWT/image4.png)
 ![Image 5](https://i.postimg.cc/B6hBRn2R/image5.png)    
 
-**File:** [web_flask/100-hbnb.py](web_flask/100-hbnb.py), [web_flask/templates/100-hbnb.html, web_flask/static/](web_flask/templates/100-hbnb.html, web_flask/static/)
+**File:** [web_flask/100-hbnb.py](web_flask/100-hbnb.py), [web_flask/templates/100-hbnb.html](web_flask/templates/100-hbnb.html), [web_flask/static/](web_flask/static/)
