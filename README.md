@@ -892,7 +892,6 @@ guillaume@ubuntu:~/AirBnB_v2$
 - [models/place.py](models/place.py)
 
 <br>
----
 
 # 0x03. AirBnB clone - Deploy static
 
@@ -1514,7 +1513,6 @@ ubuntu@89-web-01:~/$
 **File:** [101-setup_web_static.pp](101-setup_web_static.pp)
 
 <br>
----
 
 <center><h3>Structured Overview of Repository Contents</h3> </center>
 
